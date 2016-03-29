@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anyweez/whiteboard-app/issues"
   },
-  "homepage": "https://github.com/anyweez/whiteboard-app#readme"
+  "homepage": "https://github.com/anyweez/whiteboard-app#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
